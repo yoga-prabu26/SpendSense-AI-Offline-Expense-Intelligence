@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "app": "SPENDSENSE AI",
+    "version": "4.0",
+    "last_saved": "2026-06-04T14:21:46",
+    "total_records": 14
+  },
+  "budget": {
+    "monthly_budget": 30000.0
+  },
+  "expenses": [
+    {
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Canteen lunch + snacks",
+      "date": "2026-06-01",
+      "id": "A1B2C3D4",
+      "created_at": "2026-06-01T12:30:00"
+    },
+    {
+      "amount": 200.0,
+      "category": "Travel",
+      "description": "Auto to college",
+      "date": "2026-06-01",
+      "id": "E5F6G7H8",
+      "created_at": "2026-06-01T09:00:00"
+    },
+    {
+      "amount": 299.0,
+      "category": "Recharge",
+      "description": "Jio monthly recharge",
+      "date": "2026-06-02",
+      "id": "I9J0K1L2",
+      "created_at": "2026-06-02T11:00:00"
+    },
+    {
+      "amount": 850.0,
+      "category": "Food",
+      "description": "Zomato dinner with friends",
+      "date": "2026-06-02",
+      "id": "M3N4O5P6",
+      "created_at": "2026-06-02T20:15:00"
+    },
+    {
+      "amount": 1200.0,
+      "category": "Education",
+      "description": "Python course — Udemy",
+      "date": "2026-06-02",
+      "id": "Q7R8S9T0",
+      "created_at": "2026-06-02T15:00:00"
+    },
+    {
+      "amount": 350.0,
+      "category": "Entertainment",
+      "description": "Movie — PVR IMAX",
+      "date": "2026-06-03",
+      "id": "U1V2W3X4",
+      "created_at": "2026-06-03T18:00:00"
+    },
+    {
+      "amount": 600.0,
+      "category": "Shopping",
+      "description": "College stationery & notebooks",
+      "date": "2026-06-03",
+      "id": "Y5Z6A7B8",
+      "created_at": "2026-06-03T14:00:00"
+    },
+    {
+      "amount": 180.0,
+      "category": "Travel",
+      "description": "Metro card top-up",
+      "date": "2026-06-03",
+      "id": "C9D0E1F2",
+      "created_at": "2026-06-03T08:30:00"
+    },
+    {
+      "amount": 75.0,
+      "category": "Health",
+      "description": "Pharmacy — Vitamin C",
+      "date": "2026-06-04",
+      "id": "G3H4I5J6",
+      "created_at": "2026-06-04T10:00:00"
+    },
+    {
+      "amount": 320.0,
+      "category": "Food",
+      "description": "Grocery — weekly stock",
+      "date": "2026-06-04",
+      "id": "K7L8M9N0",
+      "created_at": "2026-06-04T17:00:00"
+    },
+    {
+      "amount": 500.0,
+      "category": "Travel",
+      "description": "Ola cab — airport drop",
+      "date": "2026-06-05",
+      "id": "O1P2Q3R4",
+      "created_at": "2026-06-05T06:00:00"
+    },
+    {
+      "amount": 149.0,
+      "category": "Entertainment",
+      "description": "Netflix monthly subscription",
+      "date": "2026-06-05",
+      "id": "S5T6U7V8",
+      "created_at": "2026-06-05T09:00:00"
+    },
+    {
+      "amount": 150.0,
+      "category": "Food",
+      "description": "lunch",
+      "date": "2026-06-03",
+      "id": "82D77C5D",
+      "created_at": "2026-06-04T14:10:40"
+    },
+    {
+      "amount": 150.0,
+      "category": "Food",
+      "description": "breakfast",
+      "date": "2026-06-04",
+      "id": "72233C40",
+      "created_at": "2026-06-04T14:21:46"
+    }
+  ]
+}
