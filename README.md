@@ -173,6 +173,11 @@ spendsense-ai/
 ├── README.md           ← This file
 └── CASE_STUDY.md       ← Product case study document
 ```
+## 📄 Case Study
+
+Read the full product case study here:
+
+[View CASE_STUDY.md](CASE_STUDY.md)
 
 Optional outputs created by the app:
 ```
