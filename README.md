@@ -39,21 +39,21 @@ The app auto-loads `expenses.json` on startup (12 sample expenses included).
 | Monthly budget with warning & exceeded alerts | ✅ |
 
 ### Advanced 
-| Feature                          |              Description                    |
+| Feature|Description|
 |---|---|
-| 🧠 **Financial Health Score**       Composite 0–100 scoring across 4 dimensions |
-| 📊 **Spending Intelligence**        Category ratio analysis vs recommended allocations |
-| 📈 **Budget Forecasting**           Predicts days until budget exhaustion (daily rate model) |
-| 💡 **Savings Recommendations**      Personalised, category-specific cost-reduction tips |
-| 📄 **Monthly Report Generator**     Full formatted report — display + save to `.txt` |
-| 📤 **CSV Export**                   One-key export for Google Sheets / Excel |
-| 🔍 **Full-text Search**             Search descriptions and categories simultaneously |
-| 🗓️ **Date & Category Filter**       Slice expenses any way you need |
-| ✏️ **Expense Editing**              Update any field of any expense by ID |
-| 🔥 **Tracking Streak**              Daily tracking streak counter in the status bar |
-| 🎬 **--demo flag**                  Full non-interactive showcase for judges |
-| 💾 **Auto JSON Persistence**        Save / load without any user action |
-| 🎨 **Premium Terminal UI**          Unicode tables, colour bars, emoji, progress indicators |
+| 🧠 **Financial Health Score**|Composite 0–100 scoring across 4 dimensions |
+| 📊 **Spending Intelligence**|Category ratio analysis vs recommended allocations |
+| 📈 **Budget Forecasting**|Predicts days until budget exhaustion (daily rate model) |
+| 💡 **Savings Recommendations**|Personalised, category-specific cost-reduction tips |
+| 📄 **Monthly Report Generator**|Full formatted report — display + save to `.txt` |
+| 📤 **CSV Export**|One-key export for Google Sheets / Excel |
+| 🔍 **Full-text Search**|Search descriptions and categories simultaneously |
+| 🗓️ **Date & Category Filter**|Slice expenses any way you need |
+| ✏️ **Expense Editing**|Update any field of any expense by ID |
+| 🔥 **Tracking Streak**|Daily tracking streak counter in the status bar |
+| 🎬 **--demo flag**|Full non-interactive showcase for judges |
+| 💾 **Auto JSON Persistence**|Save / load without any user action |
+| 🎨 **Premium Terminal UI**|Unicode tables, colour bars, emoji, progress indicators |
 
 ---
 
