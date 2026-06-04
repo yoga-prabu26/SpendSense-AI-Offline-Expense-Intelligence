@@ -197,10 +197,10 @@ spendsense_export_20260604_143022.csv  ← CSV export
 ![Financial Health Score](screenshots/financial_health_score.png)
 
 ### Budget Manager
-![Budget Manager](screenshots/budget_manager.jpeg)
+![Budget Manager](screenshots/budget_manager.png)
 
 ### Monthly Report
-![Monthly Report](screenshots/monthly_report.jpeg)
+![Monthly Report](screenshots/monthly_report.png)
 ---
 
 ## 🔮 If I Had More Time
