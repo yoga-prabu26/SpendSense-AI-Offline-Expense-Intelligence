@@ -185,6 +185,22 @@ report_2026_06.txt                     ← saved monthly report
 spendsense_export_20260604_143022.csv  ← CSV export
 ```
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics_dashboard.png)
+
+### Financial Health Score
+![Financial Health Score](screenshots/financial_health_score.png)
+
+### Budget Manager
+![Budget Manager](screenshots/budget_manager.jpeg)
+
+### Monthly Report
+![Monthly Report](screenshots/monthly_report.jpeg)
 ---
 
 ## 🔮 If I Had More Time
