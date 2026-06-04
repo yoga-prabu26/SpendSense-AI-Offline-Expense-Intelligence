@@ -197,4 +197,4 @@ spendsense_export_20260604_143022.csv  ← CSV export
 
 -
 
-*SPENDSENSE AI v4.0 — Built for the hacthon*
+*SPENDSENSE AI v4.0 — Built for the hackathon*
